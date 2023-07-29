@@ -3,3 +3,5 @@ This readme shows the "important stuff", which is the stuff you're probably look
 
 * Generating keys or confirmation IDs? You'll need [UMSKT](https://github.com/UMSKT/UMSKT).
 * Programmatically managing keys or confirmation IDs? You'll need [xpmgr](https://github.com/UMSKT/xpmgr).
+
+All other repositories are likely intended for just research purposes, rather than making an actual, usable product. **That doesn't mean the "important stuff" isn't for research purposes.**
