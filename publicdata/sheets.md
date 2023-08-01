@@ -14,7 +14,7 @@ This is where you come in. If you put in product keys you own/found online throu
 ![image](https://github.com/UMSKT/.github/assets/57580668/3be4e4e2-6d3b-4f5d-9958-c83a08968b5b)
 *contents obviously edited*
 
-Send a screenshot of that in the comment section below (no, you're not on YouTube), including your key (if you want to), and then we can use that information to figure out what that product is, and label it on the spreadsheet. You'll be credited for finding it.
+Send a screenshot of that in the comment section below (no, you're not on YouTube), including your key (if you want to), and then we can use that information to figure out what that product is, and label it on the spreadsheet. You'll be credited for finding it (if you want to).
 
 # "Failed to generate"?
 
