@@ -8,7 +8,7 @@ The way Microsoft makes keys is that it has 2 values (there's a lot more, but th
 
 The key has no metadata regarding to what the key is supposed to be used for, only "I'm for a product that accepts the BINK of \[00-FF\] and a Channel ID of \[000-999\]". What it was meant to be used for was up to the installer.
 
-Because of this, not only is there barely any ordering, most of the keys don't even have products associated with them!
+Because of this, most of the keys don't even have products associated with them.
 
 This is where you come in. If you put in product keys you own/found online through https://mskt.surge.sh?validate=, you'll see this:
 ![image](https://github.com/UMSKT/.github/assets/57580668/3be4e4e2-6d3b-4f5d-9958-c83a08968b5b)
